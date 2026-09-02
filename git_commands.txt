@@ -52,4 +52,7 @@
   53 cd clone_repo                                                                                                                                            
   54 .\colne_repo\                                                                                                                                            
   55 cd .\colne_repo\                                                                                                                                         
-  56 git clone https://github.com/harshgithello/github-for-devops-workshop-forked.git                                                                         
+  56 git clone https://github.com/harshgithello/github-for-devops-workshop-forked.git    
+
+this new chnage i made to pull this code
+
