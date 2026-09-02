@@ -1,0 +1,32 @@
+1 try { . "c:\Users\Harsh\AppData\Local\Programs\Microsoft VS Code\a5b5009513\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegr...
+   2 python testing.py                                                                                                                                        
+   3  testing.py                                                                                                                                              
+   4 python testing.py                                                                                                                                        
+   5 clear                                                                                                                                                    
+   6 ls                                                                                                                                                       
+   7 ls -l                                                                                                                                                    
+   8 ls -l                                                                                                                                                    
+   9 get-childitem                                                                                                                                            
+  10 clear                                                                                                                                                    
+  11 rm .\testing.py                                                                                                                                          
+  12 ls                                                                                                                                                       
+  13 git init                                                                                                                                                 
+  14 ls                                                                                                                                                       
+  15 ls -dir                                                                                                                                                  
+  16 ls dir                                                                                                                                                   
+  17 ls -a                                                                                                                                                    
+  18 clear                                                                                                                                                    
+  19 git status                                                                                                                                               
+  20 gti status                                                                                                                                               
+  21 git status                                                                                                                                               
+  22 git add .\testing.py                                                                                                                                     
+  23 git status                                                                                                                                               
+  24 git commit -m "addedtesting file"                                                                                                                        
+  25 git status                                                                                                                                               
+  26 ls                                                                                                                                                       
+  27 rm .\testing.py                                                                                                                                          
+  28 git status                                                                                                                                               
+  29 restore testing.py                                                                                                                                       
+  30 git restore testing.py                                                                                                                                   
+  31 ls                                                                                                                                                       
+  32
