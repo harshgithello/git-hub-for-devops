@@ -29,4 +29,27 @@
   29 restore testing.py                                                                                                                                       
   30 git restore testing.py                                                                                                                                   
   31 ls                                                                                                                                                       
-  32
+  32 history                                                                                                                                                  
+  34 git status                                                                                                                                               
+  35 gti add .\git_commands.txt                                                                                                                               
+  36 git add .\git_commands.txt                                                                                                                               
+  37 git status                                                                                                                                               
+  38 gti commit -m " file is tracked"                                                                                                                         
+  39 git commit -m " file is tracked"                                                                                                                         
+  40 git status                                                                                                                                               
+  41 git remote add origin https://github.com/harshgithello/git-hub-for-devops.git                                                                            
+  42 git remote -v                                                                                                                                            
+  43 git push origin master                                                                                                                                   
+  44 pwd                                                                                                                                                      
+  45 cd                                                                                                                                                       
+  46 cd clone_repo                                                                                                                                            
+  47 cd ..                                                                                                                                                    
+  48 cd git_clone                                                                                                                                             
+  49 cd clone_repo                                                                                                                                            
+  50 ls                                                                                                                                                       
+  51 cd .\git-hub-for-devops\                                                                                                                                 
+  52 ls                                                                                                                                                       
+  53 cd clone_repo                                                                                                                                            
+  54 .\colne_repo\                                                                                                                                            
+  55 cd .\colne_repo\                                                                                                                                         
+  56 git clone https://github.com/harshgithello/github-for-devops-workshop-forked.git                                                                         
